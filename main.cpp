@@ -1,4 +1,3 @@
-//changes being made for assignment
 #include <iostream>
 #include "fraction.hpp"
 using namespace std;
